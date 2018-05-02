@@ -16,7 +16,7 @@ The Dance Off will use short gifs and add them into the musical instrument with 
 
 There will be no building. It will all be coding and using gifs/animations/ or images drawn as reference
 
-The most difficult part would be the animation and exactly what I intend to with the project, because it is still under thought process. The coding presents opportunities to puruse and explore.
+The most difficult part would be the coding then animation and exactly what I intend to with the project, because it is still under thought process. The coding presents opportunities to puruse and explore.
 
 Timeline ----> Proposal, design, animate, code, fix bugs, present
 
