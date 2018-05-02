@@ -1,0 +1,172 @@
+ffmpeg version N-90335-ga7a8320c4f Copyright (c) 2000-2018 the FFmpeg developers
+  built with gcc 7.3.0 (GCC)
+  configuration: --enable-gpl --enable-version3 --enable-sdl2 --enable-bzlib --enable-fontconfig --enable-gnutls --enable-iconv --enable-libass --enable-libbluray --enable-libfreetype --enable-libmp3lame --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libopus --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libtheora --enable-libtwolame --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libzimg --enable-lzma --enable-zlib --enable-gmp --enable-libvidstab --enable-libvorbis --enable-libvo-amrwbenc --enable-libmysofa --enable-libspeex --enable-libxvid --enable-libmfx --enable-amf --enable-ffnvcodec --enable-cuvid --enable-d3d11va --enable-nvenc --enable-nvdec --enable-dxva2 --enable-avisynth
+  libavutil      56. 10.100 / 56. 10.100
+  libavcodec     58. 14.100 / 58. 14.100
+  libavformat    58. 10.100 / 58. 10.100
+  libavdevice    58.  2.100 / 58.  2.100
+  libavfilter     7. 13.100 /  7. 13.100
+  libswscale      5.  0.102 /  5.  0.102
+  libswresample   3.  0.101 /  3.  0.101
+  libpostproc    55.  0.100 / 55.  0.100
+Splitting the commandline.
+Reading option '-v' ... matched as option 'v' (set logging level) with argument 'debug'.
+Reading option '-nostdin' ... matched as option 'stdin' (enable or disable interaction on standard input) with argument 0.
+Reading option '-progress' ... matched as option 'progress' (write program-readable progress information) with argument 'C:/Users/Young Gun Kim/AppData/Local/Temp/KritaFFmpegProgress.k33576'.
+Reading option '-r' ... matched as option 'r' (set frame rate (Hz value, fraction or abbreviation)) with argument '24'.
+Reading option '-start_number' ... matched as AVOption 'start_number' with argument '0'.
+Reading option '-i' ... matched as input url with argument 'C:/Users/Young Gun Kim/Downloads/code final img/swing%04d.png'.
+Reading option '-y' ... matched as option 'y' (overwrite output files) with argument '1'.
+Reading option 'C:/Users/Young Gun Kim/Downloads/code final img/rock1.mp4' ... matched as output url.
+Finished splitting the commandline.
+Parsing a group of options: global .
+Applying option v (set logging level) with argument debug.
+Applying option nostdin (enable or disable interaction on standard input) with argument 0.
+Applying option progress (write program-readable progress information) with argument C:/Users/Young Gun Kim/AppData/Local/Temp/KritaFFmpegProgress.k33576.
+[file @ 00000265d471a9c0] Setting default whitelist 'file,crypto'
+Applying option y (overwrite output files) with argument 1.
+Successfully parsed a group of options.
+Parsing a group of options: input url C:/Users/Young Gun Kim/Downloads/code final img/swing%04d.png.
+Applying option r (set frame rate (Hz value, fraction or abbreviation)) with argument 24.
+Successfully parsed a group of options.
+Opening an input file: C:/Users/Young Gun Kim/Downloads/code final img/swing%04d.png.
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0000.png' for reading
+[file @ 00000265d475e980] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d4766ac0] Statistics: 384172 bytes read, 0 seeks
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0001.png' for reading
+[file @ 00000265d47c4b00] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d47c4c00] Statistics: 385095 bytes read, 0 seeks
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0002.png' for reading
+[file @ 00000265d47c4bc0] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d47ce180] Statistics: 385941 bytes read, 0 seeks
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0003.png' for reading
+[file @ 00000265d47ce180] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d47ce340] Statistics: 383985 bytes read, 0 seeks
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0004.png' for reading
+[file @ 00000265d47ce340] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d47ce580] Statistics: 384231 bytes read, 0 seeks
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0005.png' for reading
+[file @ 00000265d47ce580] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d47ce740] Statistics: 381836 bytes read, 0 seeks
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0006.png' for reading
+[file @ 00000265d47ce740] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d47ce900] Statistics: 382227 bytes read, 0 seeks
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0007.png' for reading
+[file @ 00000265d47ce900] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d47ceac0] Statistics: 384149 bytes read, 0 seeks
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0008.png' for reading
+[file @ 00000265d47ceac0] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d47cec80] Statistics: 384085 bytes read, 0 seeks
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0009.png' for reading
+[file @ 00000265d47cec80] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d47cee40] Statistics: 382954 bytes read, 0 seeks
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0010.png' for reading
+[file @ 00000265d47cee40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d475f200] Statistics: 383347 bytes read, 0 seeks
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0011.png' for reading
+[file @ 00000265d47cef00] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d475f200] Statistics: 382125 bytes read, 0 seeks
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0012.png' for reading
+[file @ 00000265d47cef00] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d475f200] Statistics: 384253 bytes read, 0 seeks
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0013.png' for reading
+[file @ 00000265d47cef00] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d475f200] Statistics: 382778 bytes read, 0 seeks
+[image2 @ 00000265d475b580] Probe buffer size limit of 5000000 bytes reached
+Input #0, image2, from 'C:/Users/Young Gun Kim/Downloads/code final img/swing%04d.png':
+  Duration: 00:00:00.64, start: 0.000000, bitrate: N/A
+    Stream #0:0, 14, 1/25: Video: png, 1 reference frame, rgba(pc), 528x504 [SAR 4724:4724 DAR 22:21], 0/1, 25 fps, 25 tbr, 25 tbn, 25 tbc
+Successfully opened the file.
+Parsing a group of options: output url C:/Users/Young Gun Kim/Downloads/code final img/rock1.mp4.
+Successfully parsed a group of options.
+Opening an output file: C:/Users/Young Gun Kim/Downloads/code final img/rock1.mp4.
+[file @ 00000265d4e17000] Setting default whitelist 'file,crypto'
+Successfully opened the file.
+detected 8 logical cores
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+cur_dts is invalid (this is harmless if it occurs once at the start per stream)
+    Last message repeated 8 times
+[graph 0 input from stream 0:0 @ 00000265d4e307c0] Setting 'video_size' to value '528x504'
+[graph 0 input from stream 0:0 @ 00000265d4e307c0] Setting 'pix_fmt' to value '26'
+[graph 0 input from stream 0:0 @ 00000265d4e307c0] Setting 'time_base' to value '1/24'
+[graph 0 input from stream 0:0 @ 00000265d4e307c0] Setting 'pixel_aspect' to value '4724/4724'
+[graph 0 input from stream 0:0 @ 00000265d4e307c0] Setting 'sws_param' to value 'flags=2'
+[graph 0 input from stream 0:0 @ 00000265d4e307c0] Setting 'frame_rate' to value '24/1'
+[graph 0 input from stream 0:0 @ 00000265d4e307c0] w:528 h:504 pixfmt:rgba tb:1/24 fr:24/1 sar:4724/4724 sws_param:flags=2
+[format @ 00000265d4e2f5c0] Setting 'pix_fmts' to value 'yuv420p|yuvj420p|yuv422p|yuvj422p|yuv444p|yuvj444p|nv12|nv16|nv21|yuv420p10le|yuv422p10le|yuv444p10le|nv20le'
+[auto_scaler_0 @ 00000265d4e2f2c0] Setting 'flags' to value 'bicubic'
+[auto_scaler_0 @ 00000265d4e2f2c0] w:iw h:ih flags:'bicubic' interl:0
+[format @ 00000265d4e2f5c0] auto-inserting filter 'auto_scaler_0' between the filter 'Parsed_null_0' and the filter 'format'
+[AVFilterGraph @ 00000265d4765240] query_formats: 4 queried, 2 merged, 1 already done, 0 delayed
+[auto_scaler_0 @ 00000265d4e2f2c0] picking yuv444p out of 11 ref:rgba alpha:1
+[auto_scaler_0 @ 00000265d4e2f2c0] w:528 h:504 fmt:rgba sar:4724/4724 -> w:528 h:504 fmt:yuv444p sar:1/1 flags:0x4
+[libx264 @ 00000265d475e440] using mv_range_thread = 24
+[libx264 @ 00000265d475e440] using SAR=1/1
+[libx264 @ 00000265d475e440] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 00000265d475e440] profile High 4:4:4 Predictive, level 3.0, 4:4:4 8-bit
+[libx264 @ 00000265d475e440] 264 - core 155 r2901 7d0ff22 - H.264/MPEG-4 AVC codec - Copyleft 2003-2018 - http://www.videolan.org/x264.html - options: cabac=1 ref=3 deblock=1:0:0 analyse=0x1:0x111 me=hex subme=7 psy=1 psy_rd=1.00:0.00 mixed_ref=1 me_range=16 chroma_me=1 trellis=1 8x8dct=0 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=4 threads=12 lookahead_threads=2 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=2 keyint=250 keyint_min=24 scenecut=40 intra_refresh=0 rc_lookahead=40 rc=crf mbtree=1 crf=23.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:/Users/Young Gun Kim/Downloads/code final img/rock1.mp4':
+  Metadata:
+    encoder         : Lavf58.10.100
+    Stream #0:0, 0, 1/12288: Video: h264 (libx264), 1 reference frame (avc1 / 0x31637661), yuv444p, 528x504 [SAR 1:1 DAR 22:21], 0/1, q=-1--1, 24 fps, 12288 tbn, 24 tbc
+    Metadata:
+      encoder         : Lavc58.14.100 libx264
+    Side data:
+      cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: -1
+Clipping frame in rate conversion by 0.000008
+cur_dts is invalid (this is harmless if it occurs once at the start per stream)
+    Last message repeated 5 times
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0014.png' for reading
+[file @ 00000265d47c4c40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d4e33240] Statistics: 380978 bytes read, 0 seeks
+cur_dts is invalid (this is harmless if it occurs once at the start per stream)
+[image2 @ 00000265d475b580] Opening 'C:/Users/Young Gun Kim/Downloads/code final img/swing0015.png' for reading
+[file @ 00000265d47c4c40] Setting default whitelist 'file,crypto'
+[AVIOContext @ 00000265d4e33100] Statistics: 383796 bytes read, 0 seeks
+cur_dts is invalid (this is harmless if it occurs once at the start per stream)
+    Last message repeated 9 times
+[out_0_0 @ 00000265d4e2f1c0] EOF on sink link out_0_0:default.
+No more output streams to write to, finishing.
+[libx264 @ 00000265d475e440] frame=   0 QP=21.82 NAL=3 Slice:I Poc:0   I:1056 P:0    SKIP:0    size=46941 bytes
+[libx264 @ 00000265d475e440] frame=   1 QP=20.39 NAL=2 Slice:P Poc:8   I:1    P:36   SKIP:1019 size=176 bytes
+[libx264 @ 00000265d475e440] frame=   2 QP=27.14 NAL=2 Slice:B Poc:4   I:27   P:94   SKIP:922  size=1692 bytes
+[libx264 @ 00000265d475e440] frame=   3 QP=28.82 NAL=0 Slice:B Poc:2   I:16   P:87   SKIP:947  size=969 bytes
+[libx264 @ 00000265d475e440] frame=   4 QP=29.94 NAL=0 Slice:B Poc:6   I:13   P:87   SKIP:946  size=931 bytes
+[libx264 @ 00000265d475e440] frame=   5 QP=23.12 NAL=2 Slice:P Poc:16  I:88   P:83   SKIP:885  size=3464 bytes
+[libx264 @ 00000265d475e440] frame=   6 QP=25.70 NAL=2 Slice:B Poc:12  I:8    P:92   SKIP:954  size=749 bytes
+[libx264 @ 00000265d475e440] frame=   7 QP=26.46 NAL=0 Slice:B Poc:10  I:17   P:42   SKIP:984  size=1164 bytes
+[libx264 @ 00000265d475e440] frame=   8 QP=30.07 NAL=0 Slice:B Poc:14  I:13   P:98   SKIP:927  size=1410 bytes
+[libx264 @ 00000265d475e440] frame=   9 QP=21.41 NAL=2 Slice:P Poc:24  I:2    P:29   SKIP:1025 size=101 bytes
+[libx264 @ 00000265d475e440] frame=  10 QP=28.77 NAL=2 Slice:B Poc:20  I:12   P:39   SKIP:1004 size=648 bytes
+[libx264 @ 00000265d475e440] frame=  11 QP=25.18 NAL=0 Slice:B Poc:18  I:21   P:37   SKIP:996  size=801 bytes
+[libx264 @ 00000265d475e440] frame=  12 QP=25.36 NAL=0 Slice:B Poc:22  I:25   P:34   SKIP:993  size=862 bytes
+[libx264 @ 00000265d475e440] frame=  13 QP=30.51 NAL=2 Slice:P Poc:30  I:68   P:55   SKIP:933  size=2224 bytes
+[libx264 @ 00000265d475e440] frame=  14 QP=26.42 NAL=2 Slice:B Poc:26  I:11   P:77   SKIP:957  size=1042 bytes
+[libx264 @ 00000265d475e440] frame=  15 QP=26.05 NAL=0 Slice:B Poc:28  I:5    P:68   SKIP:980  size=408 bytes
+frame=   16 fps=0.0 q=-1.0 Lsize=      64kB time=00:00:00.54 bitrate= 964.4kbits/s speed=3.71x    
+[AVIOContext @ 00000265d475b400] Statistics: 0 seeks, 1 writeouts
+video:63kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 1.613480%
+Input file #0 (C:/Users/Young Gun Kim/Downloads/code final img/swing%04d.png):
+  Input stream #0:0 (video): 16 packets read (6135952 bytes); 16 frames decoded; 
+  Total: 16 packets (6135952 bytes) demuxed
+Output file #0 (C:/Users/Young Gun Kim/Downloads/code final img/rock1.mp4):
+  Output stream #0:0 (video): 16 frames encoded; 16 packets muxed (64271 bytes); 
+  Total: 16 packets (64271 bytes) muxed
+16 frames successfully decoded, 0 decoding errors
+[AVIOContext @ 00000265d4e17100] Statistics: 2 seeks, 4 writeouts
+[libx264 @ 00000265d475e440] frame I:1     Avg QP:21.82  size: 46941
+[libx264 @ 00000265d475e440] frame P:4     Avg QP:23.86  size:  1491
+[libx264 @ 00000265d475e440] frame B:11    Avg QP:27.27  size:   971
+[libx264 @ 00000265d475e440] consecutive B-frames:  6.2%  0.0% 18.8% 75.0%
+[libx264 @ 00000265d475e440] mb I  I16..4:  9.5%  0.0% 90.5%
+[libx264 @ 00000265d475e440] mb P  I16..4:  0.6%  0.0%  3.2%  P16..4:  3.3%  0.8%  0.7%  0.0%  0.0%    skip:91.4%
+[libx264 @ 00000265d475e440] mb B  I16..4:  0.3%  0.0%  1.2%  B16..8:  5.0%  1.4%  0.6%  direct: 0.3%  skip:91.3%  L0:43.0% L1:50.9% BI: 6.1%
+[libx264 @ 00000265d475e440] coded y,u,v intra: 79.5% 40.8% 40.3% inter: 1.1% 0.2% 0.2%
+[libx264 @ 00000265d475e440] i16 v,h,dc,p: 68%  9% 11% 12%
+[libx264 @ 00000265d475e440] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 23% 20% 16%  9%  8%  6%  7%  5%  6%
+[libx264 @ 00000265d475e440] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 00000265d475e440] ref P L0: 41.7% 11.3% 39.2%  7.8%
+[libx264 @ 00000265d475e440] ref B L0: 85.1% 14.4%  0.5%
+[libx264 @ 00000265d475e440] ref B L1: 96.7%  3.3%
+[libx264 @ 00000265d475e440] kb/s:762.98
